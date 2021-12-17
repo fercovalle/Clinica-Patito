@@ -1,3 +1,1 @@
-inicializando repo 
-
-Ludvin
+## inicializando repo
