@@ -1,3 +1,0 @@
-inicializando repo 
-
-Ludvin
